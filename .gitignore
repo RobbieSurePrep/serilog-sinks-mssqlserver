@@ -184,3 +184,9 @@ FakesAssemblies/
 /.vs/serilog-sinks-mssqlserver/v15/sqlite3
 /.vs/serilog-sinks-mssqlserver/v15/Server/sqlite3
 /.vs
+
+# Visual Studio Code
+/.vscode
+
+# Build Output
+/artifacts
